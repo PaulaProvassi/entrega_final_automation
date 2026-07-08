@@ -6,7 +6,7 @@ from selenium import webdriver
 from utils.data_reader import read_user_csv
 from page.login_page import LoginPage
 import pathlib
-import pytest_html
+#import pytest_html
 
 
 @pytest.fixture
