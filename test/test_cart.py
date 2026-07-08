@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pytest
 
+@pytest.mark.smoke
 def test_cart(login_in_driver):
     driver = login_in_driver
     # Agregar un producto al carrito

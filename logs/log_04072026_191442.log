@@ -1,0 +1,4 @@
+2026-07-04 19:14:45,009 - INFO - Iniciando el driver para test_login_ok
+2026-07-04 19:14:45,009 - INFO - Iniciando el test de login con usuario y contraseña válidos
+2026-07-04 19:14:46,325 - INFO - Iniciando sesion...
+2026-07-04 19:14:46,329 - INFO - Login exitoso
