@@ -23,7 +23,7 @@ jobs:
                   pip install -r requirements.txt
 
             - name: Ejecutar tests
-              run: pytest
+              run: pytest -p no:html
 
             - name: Guardar reporte como artefacto
               uses: actions/upload-artifact@v4
